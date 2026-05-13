@@ -1,0 +1,9 @@
+product_id,name,category,price,stock,rating,description
+P001,Laptop Pro,Electronics,1299.99,45,4.5,High-performance laptop with 16GB RAM and 512GB SSD
+P002,Wireless Mouse,Electronics,29.99,200,4.2,Ergonomic wireless mouse with long battery life
+P003,Python Handbook,Books,49.99,80,4.8,Comprehensive guide to Python programming
+P004,Standing Desk,Furniture,399.99,25,4.6,Adjustable height standing desk for ergonomic work
+P005,Mechanical Keyboard,Electronics,149.99,60,4.7,RGB mechanical keyboard with Cherry MX switches
+P006,Data Science Guide,Books,59.99,55,4.4,Introduction to data science and machine learning
+P007,Monitor 27inch,Electronics,349.99,35,4.3,4K UHD monitor with HDR support
+P008,Office Chair,Furniture,279.99,40,4.1,Ergonomic office chair with lumbar support

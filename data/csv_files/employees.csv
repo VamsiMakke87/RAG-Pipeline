@@ -1,0 +1,9 @@
+id,name,department,role,salary,hire_date
+1,Alice Johnson,Engineering,Senior Developer,95000,2020-03-15
+2,Bob Smith,Engineering,Junior Developer,65000,2022-07-01
+3,Carol Williams,Data Science,Data Analyst,78000,2021-01-20
+4,David Brown,Data Science,ML Engineer,92000,2019-11-10
+5,Eva Martinez,Product,Product Manager,88000,2020-06-25
+6,Frank Lee,Engineering,Tech Lead,110000,2018-04-12
+7,Grace Kim,Design,UX Designer,72000,2021-09-05
+8,Henry Chen,Data Science,Senior Data Scientist,98000,2019-02-28
