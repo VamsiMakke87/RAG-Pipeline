@@ -1,7 +1,7 @@
 langchain
 langchain-core
 langchain-community
-pypdf
+langchain-text-splitters
 pymupdf
 sentence-transformers
 faiss-cpu
