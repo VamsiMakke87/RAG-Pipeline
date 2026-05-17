@@ -11,3 +11,5 @@ data/vector_store/
 
 # Jupyter
 .ipynb_checkpoints/
+
+.env
